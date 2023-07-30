@@ -1,0 +1,29 @@
+body{
+    background-color: aqua;
+}
+image{
+    size: 20px; padding: 20px;
+}
+header{
+    background-color: beige;
+    
+}
+p{
+    color: rgb(223, 125, 5);
+}
+h2{
+    text-align: center; color:rgb(48, 15, 234);
+}
+a{
+    padding:20px 17px;
+    color:brown;
+}
+footer{
+    background-color: beige;
+}
+a:hover {
+background-color: aqua;
+}
+a{
+    
+}
